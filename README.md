@@ -5,7 +5,7 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
 ## Important Links
 
 - [Bot Environment Variables](https://JAYTECHBOT-plugins.vercel.app/env)
-- [FAQ](https://levanter-plugins.vercel.app/faq)
+- [FAQ](https://JAYTECHBOT-plugins.vercel.app/faq)
 
 ## Setup
 
@@ -103,5 +103,5 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
 
 ### Thanks To
 
-- [JAYBOT](https://github.com/Quiec) for [WhatsAsena](https://github.com/javiel/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [JAYTECHBOT](https://github.com/Quiec) for [WhatsAsena](https://github.com/javiel/WhatsAsena)
+- [@javiel](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
